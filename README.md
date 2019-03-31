@@ -4,15 +4,15 @@ Project panduan menuju UKK. Tutorial vidio ada [disini](https://youtube.com/hilm
 # Timeline
 - [x] Analisis - [Tonton vidio](https://www.youtube.com/watch?v=sko-wUPyfQU)
 - [x] Desain - [Tonton vidio](https://youtu.be/s5ym5g713kc)
-- [ ] Routing
-- [ ] Konfigurasi Database ke PHP
+- [x] Routing
+- [x] Konfigurasi Database
 
 ### Fitur
-- [ ] Login
-- [ ] Logout
+- [x] Login
+- [x] Logout
 - [ ] Inventarisir
-  - [ ] Data Jenis Barang
-  - [ ] Data Ruangan
+  - [x] Data Jenis Barang
+  - [x] Data Ruangan
   - [ ] Inventaris
 - [ ] Transaksi
   - [ ] Peminjaman
