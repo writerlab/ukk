@@ -1,12 +1,9 @@
 # Road to UKK
 Project panduan menuju UKK. Tutorial vidio ada [disini](https://youtube.com/hilmizul).
 
-# Vidio Tutorial
-- [Intro](https://www.youtube.com/watch?v=sko-wUPyfQU)
-
 # Timeline
-- [x] Analisis
-- [x] Desain
+- [x] Analisis - [Tonton vidio](https://www.youtube.com/watch?v=sko-wUPyfQU)
+- [x] Desain - [Tonton vidio](https://youtu.be/s5ym5g713kc)
 - [ ] Routing
 - [ ] Konfigurasi Database ke PHP
 
