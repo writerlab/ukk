@@ -3,7 +3,7 @@ Project panduan menuju UKK. Tutorial vidio ada [disini](https://youtube.com/hilm
 
 # Timeline
 - [x] Analisis - [Tonton vidio](https://www.youtube.com/watch?v=sko-wUPyfQU)
-- [x] Desain - [Tonton vidio](https://youtu.be/s5ym5g713kc)
+- [x] Desain - Tonton vidio
 - [x] Routing
 - [x] Konfigurasi Database
 
