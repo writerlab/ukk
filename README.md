@@ -2,7 +2,7 @@
 Project panduan menuju UKK. Tutorial vidio ada [disini](https://youtube.com/hilmizul).
 
 # Vidio Tutorial
-- (Intro)[https://www.youtube.com/watch?v=sko-wUPyfQU]
+- [Intro](https://www.youtube.com/watch?v=sko-wUPyfQU)
 
 # Timeline
 - [x] Analisis
