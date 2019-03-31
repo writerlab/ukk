@@ -11,10 +11,10 @@ Project panduan menuju UKK. Tutorial vidio ada [disini](https://youtube.com/hilm
 - [ ] Login
 - [ ] Logout
 - [ ] Inventarisir
-    - [ ] Data Jenis Barang
-    - [ ] Data Ruangan
-    - [ ] Inventaris
+  - [ ] Data Jenis Barang
+  - [ ] Data Ruangan
+  - [ ] Inventaris
 - [ ] Transaksi
-    - [ ] Peminjaman
-    - [ ] Pengembalian
+  - [ ] Peminjaman
+  - [ ] Pengembalian
 - [ ] Laporan
