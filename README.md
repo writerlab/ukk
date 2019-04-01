@@ -12,8 +12,8 @@ Project panduan menuju UKK. Tutorial vidio ada [disini](https://youtube.com/hilm
 - [x] Logout - [Tonton vidio](https://www.youtube.com/watch?v=LThpp5qD_nQ)
 - [x] Inventarisir - [Tonton vidio]
   - [x] Inventaris bagian 1 - [Tonton vidio](https://www.youtube.com/watch?v=NKnA6Xev8Gs)
-    - [x] Data Jenis Barang - [Tonton vidio](https://www.youtube.com/watch?v=NKnA6Xev8Gs)
-    - [x] Data Ruangan - [Tonton vidio](https://www.youtube.com/watch?v=NKnA6Xev8Gs)
+    - [x] Data Jenis Barang
+    - [x] Data Ruangan
   - [x] Inventaris bagian 2 - [Tonton vidio](https://youtu.be/HdU9rcWtlOA)
 - [ ] Transaksi
   - [ ] Peminjaman - [Tonton vidio]
