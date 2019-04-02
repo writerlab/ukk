@@ -16,7 +16,12 @@ Project panduan menuju UKK. Tutorial vidio ada [disini](https://youtube.com/hilm
     - [x] Data Jenis Barang
     - [x] Data Ruangan
   - [x] Inventaris bagian 2 - [Tonton vidio](https://youtu.be/HdU9rcWtlOA)
-- [ ] Transaksi
-  - [ ] Peminjaman - [Tonton vidio]
-  - [ ] Pengembalian - [Tonton vidio]
-- [ ] Laporan - [Tonton vidio]
+- [x] Data Pegawai
+- [x] Transaksi
+  - [x] Peminjaman - [Tonton vidio](https://www.youtube.com/watch?v=9qG2bca1LCs)
+  - Pengembalian *(Skip. Kebalikan dari Peminjaman.)*
+- Laporan *(Skip)*
+
+--- 
+
+- [x] Otoritas - [Tonton vidio](https://www.youtube.com/watch?v=_uGmGP1iKGw)
