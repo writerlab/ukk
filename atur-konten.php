@@ -21,6 +21,26 @@ elseif ($_GET['menu'] == 'ruangan') {
 elseif ($_GET['menu'] == 'tambah-ruangan') {
   include('konten/tambah-ruangan.php');
 }
+elseif ($_GET['menu'] == 'inventaris') {
+  include('konten/inventaris.php');
+}
+elseif ($_GET['menu'] == 'tambah-inventaris') {
+  include('konten/tambah-inventaris.php');
+}
+
+elseif ($_GET['menu'] == 'tambah-pegawai') {
+  include('konten/tambah-pegawai.php');
+}
+elseif ($_GET['menu'] == 'pegawai') {
+  include('konten/pegawai.php');
+}
+
+elseif ($_GET['menu'] == 'tambah-peminjaman') {
+  include('konten/tambah-peminjaman.php');
+}
+elseif ($_GET['menu'] == 'peminjaman') {
+  include('konten/peminjaman.php');
+}
 
 
 

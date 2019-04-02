@@ -18,7 +18,7 @@ include("konten/header.html");
       <div class="row">
         <?php
         // menu
-        include("konten/menu.html");
+        include("konten/menu.php");
 
         // konten
         include('atur-konten.php');
