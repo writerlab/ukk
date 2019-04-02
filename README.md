@@ -7,7 +7,8 @@ Project panduan menuju UKK. Tutorial vidio ada [disini](https://youtube.com/hilm
 - [x] Routing - [Tonton vidio](https://www.youtube.com/watch?v=9U2dNmaFJWQ)
 - [x] Konfigurasi Database - [Tonton vidio](https://www.youtube.com/watch?v=Q2g6lmom_Mw)
 
-### Fitur
+---
+
 - [x] Login - [Tonton vidio](https://www.youtube.com/watch?v=_XGwvEeM4xU)
 - [x] Logout - [Tonton vidio](https://www.youtube.com/watch?v=LThpp5qD_nQ)
 - [x] Inventarisir
