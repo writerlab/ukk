@@ -16,7 +16,7 @@ Project panduan menuju UKK. Tutorial vidio ada [disini](https://www.youtube.com/
     - [x] Data Jenis Barang
     - [x] Data Ruangan
   - [x] Inventaris bagian 2 - [Tonton vidio](https://youtu.be/HdU9rcWtlOA)
-- [x] Data Pegawai
+- [x] Data Pegawai - [Tonton vidio](https://www.youtube.com/watch?v=FTZ8KXzfWrE)
 - [x] Transaksi
   - [x] Peminjaman - [Tonton vidio](https://www.youtube.com/watch?v=9qG2bca1LCs)
   - Pengembalian *(Skip. Kebalikan dari Peminjaman.)*
