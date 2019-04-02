@@ -2,9 +2,9 @@
 Project panduan menuju UKK. Tutorial vidio ada [disini](https://www.youtube.com/playlist?list=PLSCLBARdXrOxCnpPs5qrvqyu3KFvVSHhz).
 
 # Timeline
-- [x] Analisis - [Tonton vidio](https://www.youtube.com/watch?v=sko-wUPyfQU)
-- [x] Desain - [Tonton vidio](https://www.youtube.com/watch?v=hZD1Ex0pjjE)
-- [x] Routing - [Tonton vidio](https://www.youtube.com/watch?v=9U2dNmaFJWQ)
+- [x] Intro - [Tonton vidio](https://www.youtube.com/watch?v=sko-wUPyfQU)
+- [x] Desain Template - [Tonton vidio](https://www.youtube.com/watch?v=hZD1Ex0pjjE)
+- [x] Routing URL/Hyperlink - [Tonton vidio](https://www.youtube.com/watch?v=9U2dNmaFJWQ)
 - [x] Konfigurasi Database - [Tonton vidio](https://www.youtube.com/watch?v=Q2g6lmom_Mw)
 
 ---
