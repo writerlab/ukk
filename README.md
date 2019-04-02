@@ -1,5 +1,5 @@
 # Road to UKK
-Project panduan menuju UKK. Tutorial vidio ada [disini](https://youtube.com/hilmizul).
+Project panduan menuju UKK. Tutorial vidio ada [disini](https://www.youtube.com/playlist?list=PLSCLBARdXrOxCnpPs5qrvqyu3KFvVSHhz).
 
 # Timeline
 - [x] Analisis - [Tonton vidio](https://www.youtube.com/watch?v=sko-wUPyfQU)
