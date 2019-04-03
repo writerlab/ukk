@@ -21,7 +21,8 @@ Project panduan menuju UKK. Tutorial vidio ada [disini](https://www.youtube.com/
   - [x] Peminjaman - [Tonton vidio](https://www.youtube.com/watch?v=9qG2bca1LCs)
   - Pengembalian *(Skip. Kebalikan dari Peminjaman.)*
 - Laporan *(Skip)*
-
---- 
-
 - [x] Otoritas - [Tonton vidio](https://www.youtube.com/watch?v=_uGmGP1iKGw)
+
+---
+
+Simpulan - [Tonton vidio](https://www.youtube.com/watch?v=8cTA6Zi_6Xg)
