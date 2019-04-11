@@ -1,3 +1,9 @@
+<!-- 
+  UKK (Uji Kompetensi Keahlian)
+  
+  Zul Hilmi
+  https://github.com/writerlab/ukk
+-->
 <!DOCTYPE html>
 <html lang="en">
 <?php
@@ -7,11 +13,13 @@ include("konten/header.html");
 ?>
 <body>
   
-  <div class="container">
-    <?php
-    if (empty($_SESSION['id'])) {
+  <?php
+  if (empty($_SESSION['id'])) {
       include('konten/login.php');
-    } else {
+  } else { ?>
+  <section class="wrap">
+    <div class="container">
+      <?php
       include("konten/judul.html"); ?>  
 
       <!-- menu & konten -->
@@ -21,11 +29,11 @@ include("konten/header.html");
         include("konten/menu.php");
 
         // konten
-        include('atur-konten.php');
-    }
-     ?>
+        include('atur-konten.php');?>
+      </div>
     </div>
-  </div>
+  </section>
+  <?php } ?>
 
 </body>
 </html>
