@@ -14,7 +14,8 @@ if (isset($_POST['masuk'])) {
     $_SESSION['nama_petugas'] = $sesi['nama_petugas'];
     $_SESSION['id_level'] = $sesi['id_level'];
 
-    header('Location: index.php?menu=home');
+    // header('Location: index.php?menu=home');
+    print "<meta http-equiv='refresh' content='0;URL=?menu=home'> ";
   } else {
     $pesan = "<div class='alert alert-danger'>LOGIN GAGAL!</div>";
   }
