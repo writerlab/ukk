@@ -8,8 +8,8 @@ if (isset($_POST['simpan'])) {
     NULL,
     NOW(),
     NULL,
-    true,
-    '$id_pegawai'
+    'sedang pinjam',
+    $id_pegawai
   )");
 
   $q_get_id = mysqli_query($konek, "select id_peminjaman from peminjaman order by id_peminjaman desc limit 1");
@@ -18,9 +18,9 @@ if (isset($_POST['simpan'])) {
 
   $q_detil_pinjam = mysqli_query($konek, "insert into detil_pinjam values (
     NULL,
-    '$id_inventaris',
-    '$jumlah',
-    '$id_peminjaman'
+    $id_inventaris,
+    $jumlah,
+    $id_peminjaman
   )");
   
   if ($q_peminjaman && $q_detil_pinjam) {
