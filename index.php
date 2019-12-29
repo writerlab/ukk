@@ -1,3 +1,4 @@
+<?php session_start(); ?>
 <!-- 
   UKK (Uji Kompetensi Keahlian)
   
@@ -7,7 +8,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-session_start();
 include('koneksi.php');
 include("konten/header.html");
 ?>
